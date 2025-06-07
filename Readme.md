@@ -1,0 +1,1 @@
+This is the journal of me, an entry level(to be honest know none) cyber security enthusiast getting to know about the realm of Cyber! All the best to me
