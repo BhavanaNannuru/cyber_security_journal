@@ -1,0 +1,1 @@
+1. Day 1: Looks too much to go through. Can understand what I'm reading. I also feel I'm missing something along the way. Day 1 bricks laid, more to go!
