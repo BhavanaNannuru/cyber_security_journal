@@ -10,5 +10,5 @@ Today, I set up and tested three essential cybersecurity tools in Debian that wi
 
 ---
 
-## 🧠 Key Concepts & Observations
+## 🧠 Observations
 All the tools were pre-installed with Kali. Latest versions too.
