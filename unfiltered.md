@@ -9,3 +9,7 @@ It was a pretty easy job today. Needed to install vmware and debian. Rest of the
  # Day 3 – Did Something!
 📅 Date: 9 June 2025
 Feels like I have done something, a step closer but yet not that big. Probably because am still taking the intial steps. Planning to lay foundations stronger. Looking forward to tomorrow. 
+
+# Day 4 - Getting the hang of it!
+📅 Date: 10 June 2025
+This was the most satisfying day ever! Completed 4 owasp practice labs in under an hr! The sense of belongingness is ddeply cultivated. 
