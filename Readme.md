@@ -16,7 +16,6 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 | Folder | Purpose |
 |--------|---------|
-| `week1/`, `week2/`, ... | Daily logs of learning, TryHackMe rooms, challenges solved |
 | `tools/` | Hands-on notes and usage guides for key cybersecurity tools |
 | `papers/` | Summaries + reflections on beginner-friendly cyber research papers |
 | `reflections/` | Honest thoughts, blockers, motivation logs |
