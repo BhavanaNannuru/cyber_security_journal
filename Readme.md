@@ -43,9 +43,53 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 ---
 
+## 🐍 Codes 
+Find some beginner python codes, feat: cyber security! 
+Check out my [Cybersecurity Projects Repository](https://github.com/BhavanaNannuru/cyber_projects) for more hands-on learning.
+
+---
+---
+
+> **Note:** This repository is **strictly for educational purposes only**.
+
+
+
+## ⚠️ Disclaimer
+
+The content in this repository is intended to:
+
+- Help learners, including me to  understand cybersecurity concepts
+- Support ethical hacking practices in legal environments (labs, self-owned systems, permission-granted tests)
+- Promote awareness about how security vulnerabilities can be found and mitigated
+
+### ❌ What this repository is **not** intended for:
+
+- Unauthorized access to networks or systems  
+- Malicious exploitation of vulnerabilities  
+- Any illegal or unethical activity  
+
+I do **not** encourage or condone using any of the tools, scripts, or techniques demonstrated here for activities that go against legal or ethical standards.
+
+> **You are solely responsible for how you use this information.**
+
+---
+
+## ✅ Always Remember
+
+- Practice only in controlled, permission-based environments
+- Follow the laws of your country and organization
+- Respect privacy and data security at all times
+
+---
+
+## 📚 Stay Ethical, Keep Learning
+Cybersecurity is about **protecting**, not harming. Use your knowledge to build safer digital spaces and empower others to stay secure.
+
+---
+
 ## 🔗 About Me
 
-I'm a cybersecurity enthusiast with a strong background in development and automation. I’ve completed internships in software and data engineering, led volunteering initiatives for social impact, and am now actively preparing for MS Cybersecurity (Fall 2026) through hands-on learning, LinkedIn knowledge sharing, and consistent journal building.
+I'm a cybersecurity enthusiast with a strong background in development and automation. I’ve completed internships in software and data engineering, led volunteering initiatives for social impact, and am now actively preparing for hands-on learning, and consistent journal building.
 
 ---
 
@@ -54,3 +98,4 @@ I'm a cybersecurity enthusiast with a strong background in development and autom
 This repository is licensed under the [MIT License](LICENSE). All educational reflections and notes are for public learning and personal growth.
 
 ---
+
