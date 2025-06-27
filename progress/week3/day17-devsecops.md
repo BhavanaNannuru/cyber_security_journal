@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 17 – Introduction to DevSecOps (June 22, 2025)
+## 📅 Day 17 – Introduction to DevSecOps (June 23, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Introduction to DevSecOps](https://tryhackme.com/room/devsecopsintro)

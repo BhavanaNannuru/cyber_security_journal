@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 13 – Cybersecurity Career Orientation (June 18, 2025)
+## 📅 Day 13 – Cybersecurity Career Orientation (June 19, 2025)
 
 ### ✅ TryHackMe Rooms Completed
 - [Careers in Cyber](https://tryhackme.com/room/careersincyber)

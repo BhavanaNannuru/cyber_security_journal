@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 19 – Cryptography for Dummies (June 24, 2025)
+## 📅 Day 19 – Cryptography for Dummies (June 25, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)

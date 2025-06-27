@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 15 – Understanding DNS (June 20, 2025)
+## 📅 Day 15 – Understanding DNS (June 21, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)

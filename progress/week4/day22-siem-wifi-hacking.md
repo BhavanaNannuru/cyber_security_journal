@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 22 – SIEM, WiFi Hacking & Python Kickoff (June 27, 2025)
+## 📅 Day 22 – SIEM, WiFi Hacking & Python Kickoff (June 28, 2025)
 
 ---
 

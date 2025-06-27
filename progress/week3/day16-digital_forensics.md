@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 16 – Digital Forensics Foundations (June 21, 2025)
+## 📅 Day 16 – Digital Forensics Foundations (June 22, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Intro to Digital Forensics](https://tryhackme.com/room/introtodigitalforensics)

@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 14 – Python for Cybersecurity Basics (June 19, 2025)
+## 📅 Day 14 – Python for Cybersecurity Basics (June 20, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Python Basics](https://tryhackme.com/room/pythonbasics)

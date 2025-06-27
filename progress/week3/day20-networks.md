@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 20 – Introductory Networking (June 25, 2025)
+## 📅 Day 20 – Introductory Networking (June 26, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Introductory Networking](https://tryhackme.com/room/introtonetworking)

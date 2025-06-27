@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 18 – Cryptography Basics (June 23, 2025)
+## 📅 Day 18 – Cryptography Basics (June 24, 2025)
 
 ### ✅ TryHackMe Room Completed
 - [Cryptography Basics](https://tryhackme.com/room/cryptography)

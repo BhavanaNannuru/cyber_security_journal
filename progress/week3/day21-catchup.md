@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity 45-Day Journal  
-## 📅 Day 21 – Journal Catch-Up & GitHub Sync (June 26, 2025)
+## 📅 Day 21 – Journal Catch-Up & GitHub Sync (June 27, 2025)
 
 ### ✅ Activities Completed
 - Reviewed notes from Day 13 to Day 20
