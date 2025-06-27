@@ -76,11 +76,14 @@ Played with Caesar cipher, XOR, Base64 — felt like solving baby puzzles, but f
 
 # Day 20 – OSI Be Like: “Layered like Cake”
 📅 Date: 26 June 2025  
-Networking 101 again. OSI model is starting to feel natural. Ports, packets, protocols — all lining up now. I’ve seen these in Wireshark, but now I *understand* them!
+Networking 101 again. OSI model is starting to feel natural. Ports, packets, protocols — all lining up now. I’ve seen these in Wireshark, but now I *understand* them! Finally took a breather to log all this madness. GitHub journal catching up, scripts coming soon. It feels GOOD to document. This journey is mine — raw, messy, and real!
 
-# Day 21 – Sync It Up, Captain!
+# Day 21 – Brain Fry Day!
 📅 Date: 27 June 2025  
-Finally took a breather to log all this madness. GitHub journal catching up, scripts coming soon. It feels GOOD to document. This journey is mine — raw, messy, and real!
+Worked all day today. Though most of brain traffic went towards GitHub profile page setup, some routed from tryhackme too! :)
+Loved the day: exhausting but due to something that i like to do. Moving forward with great spirits for tomorrow!!
 
-
+# Day 22 – Sync It Up, Captain!
+📅 Date: 28 June 2025  
+Found out I missed a 'date' somewhere 🥲. Uploading tomorrow's today itself because of that! Oops!!!
 
