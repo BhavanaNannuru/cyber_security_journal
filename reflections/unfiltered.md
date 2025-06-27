@@ -1,21 +1,21 @@
 # Day 1 – Uff!! Did it!
-📅 Date: 7 June 2025
- Looks too much to go through. Can understand what I'm reading. I also feel I'm missing something along the way. Day 1 bricks laid, more to go!
+📅 Date: 7 June 2025  
+Looks too much to go through. Can understand what I'm reading. I also feel I'm missing something along the way. Day 1 bricks laid, more to go!
 
  # Day 2 – Easy!
-📅 Date: 8 June 2025
+📅 Date: 8 June 2025  
 It was a pretty easy job today. Needed to install vmware and debian. Rest of the tools were already installed by default! Job done perfect! Look's like the 2nd brick is laid down pretty firmly!
 
  # Day 3 – Did Something!
-📅 Date: 9 June 2025
+📅 Date: 9 June 2025  
 Feels like I have done something, a step closer but yet not that big. Probably because am still taking the intial steps. Planning to lay foundations stronger. Looking forward to tomorrow. 
 
 # Day 4 - Getting the hang of it!
-📅 Date: 10 June 2025
+📅 Date: 10 June 2025  
 This was the most satisfying day ever! Completed 4 owasp practice labs in under an hr! The sense of belongingness is ddeply cultivated. 
 
 # Day 5 - That's LINUX!!
-📅 Date: 11 June 2025
+📅 Date: 11 June 2025  
 Woow! I did see a lot of commands there. Bash Scripting peaked my smiles. HEHE!! 
 
 # Day 6 – Google it like a Hacker!
