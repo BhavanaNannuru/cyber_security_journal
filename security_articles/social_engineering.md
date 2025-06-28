@@ -1,5 +1,3 @@
-# 🛡️ Cybersecurity Daily — Day 1
-
 ## 📌 Topic: Social Engineering (Beginner)
 
 > **“It’s not about hacking systems. It’s about hacking people.”**
