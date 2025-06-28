@@ -24,13 +24,6 @@
   - Mapped threat intel concepts to real dashboards
   - Understood how CTI helps SOC teams correlate attacks
 
-### 🐍 Python Program
-- ✅ `port_scanner.py` (Multithreaded)
-  - Efficiently scans a range of ports
-  - Demonstrates foundational network programming skills  
-  - [Uploaded to GitHub Python Projects Repository]
-
----
 
 ## 🧠 Quick Summary Notes
 
