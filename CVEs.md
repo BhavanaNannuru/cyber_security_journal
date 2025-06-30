@@ -17,3 +17,12 @@
 - Attackers used malicious `${jndi:ldap://...}` strings to trigger code execution  
 - Initial impact seen on Minecraft servers; later affected enterprise, cloud systems  
 - Patched in Log4j v2.15.0 (Dec 2021); hardened further in v2.16.0+
+
+
+### June 30 – CVE Study  
+**CVE-2016-4657 (Trident Exploit Chain – WebKit Vulnerability)**  
+Vulnerability in Apple’s WebKit (Memory Corruption in Safari)  
+Used in Trident exploit chain by Pegasus spyware (NSO Group)  
+Allowed attackers to compromise iPhones via a single malicious link  
+Enabled remote code execution, full surveillance, and access to mic/camera  
+Patched by Apple in iOS 9.3.5 (August 2016)
