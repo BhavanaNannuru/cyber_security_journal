@@ -26,3 +26,12 @@ Used in Trident exploit chain by Pegasus spyware (NSO Group)
 Allowed attackers to compromise iPhones via a single malicious link  
 Enabled remote code execution, full surveillance, and access to mic/camera  
 Patched by Apple in iOS 9.3.5 (August 2016)
+
+
+### July 1 – CVE Study  
+**CVE-2014-6271 (Shellshock – Bash Vulnerability)**  
+Vulnerability in GNU Bash shell (Improper function parsing)  
+Allowed attackers to execute commands by injecting code into environment variables  
+Exploited in web servers, IoT devices, DHCP clients — massive internet-wide risk  
+Impact included remote code execution with minimal access  
+Patched by GNU in Bash updates released September 2014
