@@ -35,3 +35,12 @@ Allowed attackers to execute commands by injecting code into environment variabl
 Exploited in web servers, IoT devices, DHCP clients — massive internet-wide risk  
 Impact included remote code execution with minimal access  
 Patched by GNU in Bash updates released September 2014
+
+
+### July 2 – CVE Study  
+**CVE-2018-11776 (Apache Struts OGNL Injection – Jakarta Plugin)**  
+Vulnerability in Apache Struts 2 (Improper namespace handling in OGNL expressions)  
+Allowed attackers to inject and execute remote code via crafted URLs  
+Affected web apps using vulnerable Struts configurations (e.g., REST plugin)  
+Notable past Struts bug led to the Equifax data breach (2017)  
+Patched in Apache Struts 2.3.35 and 2.5.17 (August 2018)
