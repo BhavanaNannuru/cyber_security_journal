@@ -96,6 +96,11 @@ Did something that pulls my interest and deserves my attention all the time! My 
 📅 Date: 30 June 2025 
 Wish I could tell that I'm done with my targets today. Barely passed, having said that: BREAK is important too!
 
-# 💭 Day 26 – Phish, Shells & Realizations  
+# 💭 Day 25 – Phish, Shells & Realizations  
 📅 Date: 1 July 2025
 Some days feel slower but they carry deep weight. Today was that. Let's see what we have tmr!
+
+
+# Day 26 – Eye Opener  
+📅 Date: 2 July 2025
+Realized how powerful 2FA truly is. CVE-2018-11776 blew my mind — one tiny misconfig, full server pwn. Security is no joke.
