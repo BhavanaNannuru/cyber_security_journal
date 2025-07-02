@@ -1,4 +1,4 @@
-# 🛡️ Day 27 – Layers Matter  
+# 🛡️ Day 26 – Layers Matter  
 📅 Date: 2 July 2025
 
 Today’s journey was about **fortifying identity** and **uncovering weakness in design**.
