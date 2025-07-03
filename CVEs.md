@@ -44,3 +44,12 @@ Allowed attackers to inject and execute remote code via crafted URLs
 Affected web apps using vulnerable Struts configurations (e.g., REST plugin)  
 Notable past Struts bug led to the Equifax data breach (2017)  
 Patched in Apache Struts 2.3.35 and 2.5.17 (August 2018)
+
+
+### July 3 – CVE Study  
+**CVE-2019-0708 (BlueKeep – RDP Vulnerability)**  
+Vulnerability in Microsoft Remote Desktop Protocol (RDP) service  
+Allowed attackers to execute remote code on unpatched Windows systems (Wormable)  
+Could spread without user interaction, similar to WannaCry-style attacks  
+Millions of Windows 7, Server 2008 systems were initially exposed  
+Patched by Microsoft in May 2019, including an emergency patch for Windows XP
