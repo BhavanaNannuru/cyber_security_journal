@@ -104,3 +104,8 @@ Some days feel slower but they carry deep weight. Today was that. Let's see what
 # Day 26 – Eye Opener  
 📅 Date: 2 July 2025
 Realized how powerful 2FA truly is. CVE-2018-11776 blew my mind — one tiny misconfig, full server pwn. Security is no joke.
+
+
+# Day 27 – Unfiltered  
+📅 Date: 3 July 2025
+BlueKeep made me realize how dangerous unpatched systems can be. VPNs felt like a magic cloak for data — now I get why they’re so hyped.
