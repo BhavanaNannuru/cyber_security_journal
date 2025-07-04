@@ -109,3 +109,7 @@ Realized how powerful 2FA truly is. CVE-2018-11776 blew my mind — one tiny mis
 # Day 27 – Unfiltered  
 📅 Date: 3 July 2025
 BlueKeep made me realize how dangerous unpatched systems can be. VPNs felt like a magic cloak for data — now I get why they’re so hyped.
+
+# Day 28 – Floods & Exploits!  
+📅 Date: 4 July 2025
+Whoa! Today felt heavy but exciting. 💥 DDoS attacks are like digital tsunamis—learning how they cripple systems was wild. Also, CVE-2017-5638? Damn, that tiny header bug wrecked Equifax! 😳 Makes me realize how one oversight can burn down even giants. Slowly feeling like I'm connecting all the dots in this journey.  
