@@ -113,3 +113,8 @@ BlueKeep made me realize how dangerous unpatched systems can be. VPNs felt like 
 # Day 28 – Floods & Exploits!  
 📅 Date: 4 July 2025
 Whoa! Today felt heavy but exciting. 💥 DDoS attacks are like digital tsunamis—learning how they cripple systems was wild. Also, CVE-2017-5638? Damn, that tiny header bug wrecked Equifax! 😳 Makes me realize how one oversight can burn down even giants. Slowly feeling like I'm connecting all the dots in this journey.  
+
+
+# Day 29 – Feeling Like a Real Pentester  
+📅 Date: 5 July 2025  
+Woah, today was all about *planning and discovery*! The passive recon part felt like detective work—sneaking around with WHOIS and social media. Active recon got me hyped too; ping sweeps and DNS enumeration gave me a sense of *"mapping enemy territory."* 😎 Definitely feels like I’m stepping into the real pentester mindset now.  
