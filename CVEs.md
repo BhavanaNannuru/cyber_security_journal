@@ -53,3 +53,20 @@ Allowed attackers to execute remote code on unpatched Windows systems (Wormable)
 Could spread without user interaction, similar to WannaCry-style attacks  
 Millions of Windows 7, Server 2008 systems were initially exposed  
 Patched by Microsoft in May 2019, including an emergency patch for Windows XP
+
+### July 4 – CVE Study  
+**CVE-2017-5638 (Apache Struts2 – Jakarta Multipart RCE)**  
+Vulnerability in Apache Struts2 (Improper input validation in file upload parser)  
+Allowed attackers to execute arbitrary code via crafted Content-Type headers  
+Famously exploited in the 2017 **Equifax data breach** (148M records stolen)  
+Targeted web apps using the Jakarta Multipart parser in default configs  
+Patched by Apache in Struts 2.3.32 and 2.5.10.1 (March 2017)
+
+
+### July 5 – CVE Study  
+**CVE-2021-34527 (PrintNightmare – Windows Print Spooler Vulnerability)**  
+Vulnerability in Windows Print Spooler service (Improper privilege validation)  
+Allowed attackers to execute remote code and gain SYSTEM-level privileges  
+Exploited for lateral movement and deploying ransomware in networks  
+Impacted all supported Windows versions, including domain controllers  
+Patched by Microsoft in July 2021 (Emergency out-of-band update)
