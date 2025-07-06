@@ -70,3 +70,12 @@ Allowed attackers to execute remote code and gain SYSTEM-level privileges
 Exploited for lateral movement and deploying ransomware in networks  
 Impacted all supported Windows versions, including domain controllers  
 Patched by Microsoft in July 2021 (Emergency out-of-band update)
+
+
+### July 6 – CVE Study  
+**CVE-2023-34362 (MOVEit Transfer – SQL Injection Vulnerability)**  
+Vulnerability in Progress MOVEit Transfer (Improper input sanitization in SQL queries)  
+Allowed attackers to execute arbitrary SQL commands and exfiltrate sensitive data  
+Exploited by the CL0P ransomware group in a massive global supply chain attack  
+Affected organizations worldwide, including banks and government agencies  
+Patched by Progress Software in May 2023 (Security Advisory issued)
