@@ -118,3 +118,9 @@ Whoa! Today felt heavy but exciting. 💥 DDoS attacks are like digital tsunamis
 # Day 29 – Feeling Like a Real Pentester  
 📅 Date: 5 July 2025  
 Woah, today was all about *planning and discovery*! The passive recon part felt like detective work—sneaking around with WHOIS and social media. Active recon got me hyped too; ping sweeps and DNS enumeration gave me a sense of *"mapping enemy territory."* 😎 Definitely feels like I’m stepping into the real pentester mindset now.  
+
+
+# Day 30 – Feeling Like a Pentester  
+📅 Date: 6 July 2025 
+Woah… today felt like connecting so many dots! 🧠 I finally understood how all the **pen testing phases** fit together—like planning, attacking, and then neatly cleaning up like nothing happened 😏. Also, crypto fundamentals hit differently this time… symmetric, asymmetric, hashes—feels like I can finally “see” how they’re used in real life. 🛡️ 
+The more I dig in, the more exciting (and slightly scary) this field feels.  
