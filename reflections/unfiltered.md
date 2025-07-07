@@ -124,3 +124,7 @@ Woah, today was all about *planning and discovery*! The passive recon part felt 
 📅 Date: 6 July 2025 
 Woah… today felt like connecting so many dots! 🧠 I finally understood how all the **pen testing phases** fit together—like planning, attacking, and then neatly cleaning up like nothing happened 😏. Also, crypto fundamentals hit differently this time… symmetric, asymmetric, hashes—feels like I can finally “see” how they’re used in real life. 🛡️ 
 The more I dig in, the more exciting (and slightly scary) this field feels.  
+
+
+# Day 31 – 🚀 Feeling pumped! 
+Cracked a Wireshark challenge and started building my own web vulnerability scanner – this is starting to feel real!  
