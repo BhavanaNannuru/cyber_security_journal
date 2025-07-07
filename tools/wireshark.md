@@ -33,7 +33,6 @@ Wireshark is a powerful network protocol analyzer that captures and inspects pac
 | Destination Port    | `tcp.dstport == 443`            | Packets sent **to** port 443          |
 | TCP Handshake       | `tcp.flags.syn == 1`            | SYN packets (start of handshake)      |
 | DNS Queries         | `dns.qry.name == "example.com"` | DNS query for domain                  |
-| Exclude Protocol    | `!(arp || icmp)`                | Filter out ARP and ICMP               |
 
 ---
 
