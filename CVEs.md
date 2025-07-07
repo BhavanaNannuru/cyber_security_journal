@@ -79,3 +79,11 @@ Allowed attackers to execute arbitrary SQL commands and exfiltrate sensitive dat
 Exploited by the CL0P ransomware group in a massive global supply chain attack  
 Affected organizations worldwide, including banks and government agencies  
 Patched by Progress Software in May 2023 (Security Advisory issued)
+
+### July 7 – CVE Study  
+**CVE-2023-23397 (Outlook NTLM Leak – Microsoft Outlook Vulnerability)**  
+Vulnerability in Microsoft Outlook (Improper handling of calendar reminders)  
+Allowed attackers to steal NTLM hashes by sending crafted calendar invites  
+Exploited for credential theft without user interaction (zero-click)  
+Impacted Outlook for Windows clients across enterprise environments  
+Patched by Microsoft in March 2023 (Patch Tuesday release)
