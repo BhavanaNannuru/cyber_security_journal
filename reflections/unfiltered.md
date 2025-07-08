@@ -127,4 +127,11 @@ The more I dig in, the more exciting (and slightly scary) this field feels.
 
 
 # Day 31 – 🚀 Feeling pumped! 
-Cracked a Wireshark challenge and started building my own web vulnerability scanner – this is starting to feel real!  
+📅 Date: 7 July 2025 
+Cracked a Wireshark challenge and started building my own web vulnerability scanner – this is starting to feel real! 
+
+
+# Day 32 – Focused yet curious! 
+📅 Date: 8 July 2025 
+Wrapped up the Pomodoro app basics, modularized the web vuln scanner, and went deep into Python modules—feeling like pieces are falling into place.  
+
