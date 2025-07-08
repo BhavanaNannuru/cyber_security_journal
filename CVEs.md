@@ -87,3 +87,12 @@ Allowed attackers to steal NTLM hashes by sending crafted calendar invites
 Exploited for credential theft without user interaction (zero-click)  
 Impacted Outlook for Windows clients across enterprise environments  
 Patched by Microsoft in March 2023 (Patch Tuesday release)
+
+### July 8 – CVE Study  
+**CVE-2022-30190 (Follina – Microsoft MSDT Vulnerability)**  
+Vulnerability in Microsoft Support Diagnostic Tool (MSDT) via Office documents  
+Allowed attackers to execute arbitrary code when a user opened or previewed a malicious file  
+Exploited through specially crafted Word documents delivered via phishing emails  
+Impacted all supported Windows versions with Office installed  
+Patched by Microsoft in June 2022 (Security Update KB5014697)
+
