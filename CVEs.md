@@ -96,3 +96,11 @@ Exploited through specially crafted Word documents delivered via phishing emails
 Impacted all supported Windows versions with Office installed  
 Patched by Microsoft in June 2022 (Security Update KB5014697)
 
+### July 9 – CVE Study  
+**CVE-2021-26855 (ProxyLogon – Microsoft Exchange Server Vulnerability)**  
+Vulnerability in Microsoft Exchange Server (Server-Side Request Forgery – SSRF)  
+Allowed attackers to bypass authentication and access mailboxes remotely  
+Exploited in coordinated attacks against thousands of organizations worldwide  
+Chained with other bugs for full system compromise (ProxyShell exploit chain)  
+Patched by Microsoft in March 2021 (Emergency security updates released)
+
