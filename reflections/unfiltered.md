@@ -135,3 +135,6 @@ Cracked a Wireshark challenge and started building my own web vulnerability scan
 📅 Date: 8 July 2025 
 Wrapped up the Pomodoro app basics, modularized the web vuln scanner, and went deep into Python modules—feeling like pieces are falling into place.  
 
+# Day 33 – Unfiltered  
+📅 Date: 9 July 2025  
+Explored a serious Microsoft Exchange SSRF bug and got my head around XSS attacks today. Feeling like I’m finally seeing how these web exploits actually work in the wild! Was a slow day, so not much progress today!
