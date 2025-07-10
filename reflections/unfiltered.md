@@ -138,3 +138,7 @@ Wrapped up the Pomodoro app basics, modularized the web vuln scanner, and went d
 # Day 33 – Unfiltered  
 📅 Date: 9 July 2025  
 Explored a serious Microsoft Exchange SSRF bug and got my head around XSS attacks today. Feeling like I’m finally seeing how these web exploits actually work in the wild! Was a slow day, so not much progress today!
+
+
+# Day 34 – Password Vault Vibes  
+📅 Date: 10 July 2025  Breezed through password managers today—felt like unlocking a secret vault myself 🗝️. Zerologon gave me chills thinking of its sheer impact. Ended the day building my own Python password vault; it’s small, but feels like I’m leveling up! 🚀  
