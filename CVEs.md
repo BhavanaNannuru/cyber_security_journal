@@ -104,3 +104,11 @@ Exploited in coordinated attacks against thousands of organizations worldwide
 Chained with other bugs for full system compromise (ProxyShell exploit chain)  
 Patched by Microsoft in March 2021 (Emergency security updates released)
 
+### July 10 – CVE Study  
+**CVE-2020-1472 (Zerologon – Netlogon Elevation of Privilege Vulnerability)**  
+Vulnerability in Microsoft Netlogon Remote Protocol (Cryptographic flaw in authentication)  
+Allowed attackers to gain domain administrator privileges using forged logon requests  
+Exploited to take over entire Active Directory domains in enterprise networks  
+Impacted Windows Server versions acting as domain controllers  
+Patched by Microsoft in August 2020 (Security Update KB4557222)
+
