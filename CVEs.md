@@ -119,3 +119,11 @@ Allowed attackers to execute arbitrary code remotely without authentication
 Exploited in mass web attacks against Drupal-powered sites in 2018  
 Impacted Drupal versions 7.x and 8.x prior to security updates  
 Patched by Drupal team in March 2018 (Drupal 7.58 / 8.5.1 releases)
+
+### July 12 – CVE Study  
+**CVE-2017-11882 (Microsoft Office – Equation Editor Vulnerability)**  
+Vulnerability in Microsoft Office Equation Editor (Memory corruption flaw)  
+Allowed attackers to execute arbitrary code via malicious Office documents  
+Exploited in phishing campaigns to deliver malware like Agent Tesla and FormBook  
+Affected all supported Office versions before patched builds  
+Patched by Microsoft in November 2017 (Security Update KB2553204)
