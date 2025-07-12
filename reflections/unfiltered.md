@@ -142,3 +142,8 @@ Explored a serious Microsoft Exchange SSRF bug and got my head around XSS attack
 
 # Day 34 – Password Vault Vibes  
 📅 Date: 10 July 2025  Breezed through password managers today—felt like unlocking a secret vault myself 🗝️. Zerologon gave me chills thinking of its sheer impact. Ended the day building my own Python password vault; it’s small, but feels like I’m leveling up! 🚀  
+
+
+# Day 35 – Phew… Cloud Feels Big!  
+📅 Date: 11 July 2025  
+Dived into Drupalgeddon 2 and wow, it’s scary how a simple request can take over a site! 🕷️ Also started wrapping my head around cloud security—feels vast but exciting. 🌩️  
