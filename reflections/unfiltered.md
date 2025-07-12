@@ -147,3 +147,8 @@ Explored a serious Microsoft Exchange SSRF bug and got my head around XSS attack
 # Day 35 – Phew… Cloud Feels Big!  
 📅 Date: 11 July 2025  
 Dived into Drupalgeddon 2 and wow, it’s scary how a simple request can take over a site! 🕷️ Also started wrapping my head around cloud security—feels vast but exciting. 🌩️  
+
+
+# Day 36 – IoT and Old Bugs!  
+📅 Date: 12 July 2025  
+Whoa… CVE-2017-11882 was eye-opening. Can’t believe such an *old* Microsoft Office component (Equation Editor!) could let attackers take over systems so easily. Makes me think how dangerous legacy software really is. 
