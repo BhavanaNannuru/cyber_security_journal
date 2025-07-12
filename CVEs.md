@@ -112,3 +112,10 @@ Exploited to take over entire Active Directory domains in enterprise networks
 Impacted Windows Server versions acting as domain controllers  
 Patched by Microsoft in August 2020 (Security Update KB4557222)
 
+### July 11 – CVE Study  
+**CVE-2018-7600 (Drupalgeddon 2 – Drupal Remote Code Execution)**  
+Vulnerability in Drupal CMS (Improper input sanitization in form API rendering)  
+Allowed attackers to execute arbitrary code remotely without authentication  
+Exploited in mass web attacks against Drupal-powered sites in 2018  
+Impacted Drupal versions 7.x and 8.x prior to security updates  
+Patched by Drupal team in March 2018 (Drupal 7.58 / 8.5.1 releases)
