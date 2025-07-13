@@ -152,3 +152,7 @@ Dived into Drupalgeddon 2 and wow, it’s scary how a simple request can take ov
 # Day 36 – IoT and Old Bugs!  
 📅 Date: 12 July 2025  
 Whoa… CVE-2017-11882 was eye-opening. Can’t believe such an *old* Microsoft Office component (Equation Editor!) could let attackers take over systems so easily. Makes me think how dangerous legacy software really is. 
+
+# Day 37 – CVEs All Around!  
+📅 Date: 13 July 2025
+Learnt how CVEs work in the bigger picture and dove into CVE-2023-36884. Wild how attackers weaponize Office files for RCE! Makes me want to patch everything twice.  
