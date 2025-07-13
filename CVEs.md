@@ -127,3 +127,12 @@ Allowed attackers to execute arbitrary code via malicious Office documents
 Exploited in phishing campaigns to deliver malware like Agent Tesla and FormBook  
 Affected all supported Office versions before patched builds  
 Patched by Microsoft in November 2017 (Security Update KB2553204)
+
+
+### July 13 – CVE Study  
+**CVE-2023-36884 (Windows Windows Installer DDE Protocol Vulnerability)**  
+Vulnerability in Windows Installer (Improper handling of DDE fields in *.msi files)  
+Allowed attackers to execute arbitrary code when users opened crafted MSI documents  
+Exploited in phishing campaigns where victims downloaded and ran malicious MSI files  
+Impacted Windows systems with MSI installer and DDE enabled  
+Patched by Microsoft in September 2023 (Security Update MS23‑SEP)
