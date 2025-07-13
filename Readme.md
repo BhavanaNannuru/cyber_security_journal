@@ -37,7 +37,7 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 | Week | TryHackMe Rank | Rooms Completed | Tools Explored | Papers Read |
 |------|----------------|------------------|----------------|-------------|
-| W4   | 361458 → 295661 | 4              | 0      | 0           |
+| WN   | 361458 → 244043 | many!              | 0      | 0           |
 
 > 🧩 Logs updated daily • Reflections updated weekly • Publicly committed to learning
 
