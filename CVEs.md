@@ -136,3 +136,12 @@ Allowed attackers to execute arbitrary code when users opened crafted MSI docume
 Exploited in phishing campaigns where victims downloaded and ran malicious MSI files  
 Impacted Windows systems with MSI installer and DDE enabled  
 Patched by Microsoft in September 2023 (Security Update MS23‑SEP)
+
+
+### July 14 – CVE Study  
+**CVE-2024-51978 (Brother/Konica Minolta/Toshiba Printers – Authentication Bypass)**  
+Vulnerability in multiple printer models (Improper authentication validation)  
+Allowed remote, unauthenticated attackers to discover default admin password using serial number  
+Enabled full device control – change settings, access data, install firmware  
+Affected various Brother, Konica Minolta, and Toshiba models; CVSS score 9.8/10  
+Patched by vendor security updates released on July 14, 2025
