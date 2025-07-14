@@ -156,3 +156,7 @@ Whoa… CVE-2017-11882 was eye-opening. Can’t believe such an *old* Microsoft 
 # Day 37 – CVEs All Around!  
 📅 Date: 13 July 2025
 Learnt how CVEs work in the bigger picture and dove into CVE-2023-36884. Wild how attackers weaponize Office files for RCE! Makes me want to patch everything twice.  
+
+# Day 38 – Something Something!  
+📅 Date: 14 July 2025  
+Cryptography feels like magic! 🪄 Playing with CryptTool was addictive, and now AES & RSA don't look like alien math anymore. CVE-2024-51978 shows even “secure” encryption can betray you if not implemented right.  
