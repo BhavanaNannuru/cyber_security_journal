@@ -145,3 +145,12 @@ Allowed remote, unauthenticated attackers to discover default admin password usi
 Enabled full device control – change settings, access data, install firmware  
 Affected various Brother, Konica Minolta, and Toshiba models; CVSS score 9.8/10  
 Patched by vendor security updates released on July 14, 2025
+
+
+### July 15 – CVE Study  
+**CVE-2024-46711 (Apple iOS & macOS – AirDrop Name Spoofing Vulnerability)**  
+Vulnerability in Apple AirDrop (Improper validation of connection requests)  
+Allowed attackers to present spoofed or misleading sender names during file transfers  
+Could trick users into accepting malicious AirDrop content from seemingly trusted contacts  
+Affected all iOS and macOS devices with AirDrop enabled  
+Patched by Apple in iOS 17.4 and macOS Sonoma 14.4 (April 2024 Security Update)
