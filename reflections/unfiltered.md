@@ -160,3 +160,8 @@ Learnt how CVEs work in the bigger picture and dove into CVE-2023-36884. Wild ho
 # Day 38 – Something Something!  
 📅 Date: 14 July 2025  
 Cryptography feels like magic! 🪄 Playing with CryptTool was addictive, and now AES & RSA don't look like alien math anymore. CVE-2024-51978 shows even “secure” encryption can betray you if not implemented right.  
+
+
+## Day 39 – !   
+📅 Date: 15 July 2025  
+⚙️ Supply chain attacks make you realize: trust is fragile in cybersecurity. Even an update can be a weapon! AirDrop CVE was eye-opening; it’s scary how easily privacy leaks. Finally set up ADB on Linux—feels good to interact directly with Android from terminal. 🚀  
