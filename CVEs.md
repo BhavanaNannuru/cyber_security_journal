@@ -154,3 +154,5 @@ Allowed attackers to present spoofed or misleading sender names during file tran
 Could trick users into accepting malicious AirDrop content from seemingly trusted contacts  
 Affected all iOS and macOS devices with AirDrop enabled  
 Patched by Apple in iOS 17.4 and macOS Sonoma 14.4 (April 2024 Security Update)
+
+
