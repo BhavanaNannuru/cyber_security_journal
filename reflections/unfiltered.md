@@ -165,3 +165,7 @@ Cryptography feels like magic! 🪄 Playing with CryptTool was addictive, and no
 ## Day 39 – !   
 📅 Date: 15 July 2025  
 ⚙️ Supply chain attacks make you realize: trust is fragile in cybersecurity. Even an update can be a weapon! AirDrop CVE was eye-opening; it’s scary how easily privacy leaks. Finally set up ADB on Linux—feels good to interact directly with Android from terminal. 🚀  
+
+## Day 40 – Juz Faceeee!   
+📅 Date: 16 July 2025  
+Facial recognition feels cool but also scary—it’s a double-edged sword. One small bug like this Chrome CVE reminds me how fragile systems really are. Updates aren’t optional; they’re shields.  
