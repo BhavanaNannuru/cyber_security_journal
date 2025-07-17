@@ -169,3 +169,7 @@ Cryptography feels like magic! 🪄 Playing with CryptTool was addictive, and no
 ## Day 40 – Juz Faceeee!   
 📅 Date: 16 July 2025  
 Facial recognition feels cool but also scary—it’s a double-edged sword. One small bug like this Chrome CVE reminds me how fragile systems really are. Updates aren’t optional; they’re shields.  
+
+## Day 41 – Juz Faceeee!   
+📅 Date: 17 July 2025  
+Diving into Smali felt intimidating but rewarding—it’s like peeking under Android’s hood. Realizing how external devices can be weaponized makes me appreciate how often security is about *trust boundaries*. And this CVE reinforced why browser updates should never be delayed.  
