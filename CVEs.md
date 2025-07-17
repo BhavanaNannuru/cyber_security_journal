@@ -146,6 +146,14 @@ Enabled full device control – change settings, access data, install firmware
 Affected various Brother, Konica Minolta, and Toshiba models; CVSS score 9.8/10  
 Patched by vendor security updates released on July 14, 2025
 
+### July 16 – CVE Study  
+**CVE-2024-40889 (Google Chrome – V8 Engine Use-After-Free)**  
+Vulnerability in Chrome’s V8 JavaScript engine (Use-after-free in array handling)  
+Allowed attackers to execute arbitrary code via crafted web page or malicious JS  
+Could lead to full browser compromise and potential system access  
+Affected Chrome versions up to 117.x on Windows, macOS, Linux, Android  
+Patched by Google in Chrome 118.0.XXXX.XX (July 16, 2024 Security Release)
+
 
 ### July 15 – CVE Study  
 **CVE-2024-46711 (Apple iOS & macOS – AirDrop Name Spoofing Vulnerability)**  
@@ -155,4 +163,10 @@ Could trick users into accepting malicious AirDrop content from seemingly truste
 Affected all iOS and macOS devices with AirDrop enabled  
 Patched by Apple in iOS 17.4 and macOS Sonoma 14.4 (April 2024 Security Update)
 
-
+### July 17 – CVE Study  
+**CVE-2025-0001 (OpenSSL – TLS Certificate Validation Bypass)**  
+Vulnerability in OpenSSL’s TLS certificate parsing (Improper hostname validation)  
+Allowed attackers to present forged certificates that bypass hostname checks  
+Could enable man-in-the-middle (MITM) attacks on HTTPS connections  
+Affected applications using vulnerable OpenSSL versions 3.0.0 to 3.1.2  
+Patched by OpenSSL team in July 2025 (OpenSSL 3.1.3 release)
