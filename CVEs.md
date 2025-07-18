@@ -170,3 +170,12 @@ Allowed attackers to present forged certificates that bypass hostname checks
 Could enable man-in-the-middle (MITM) attacks on HTTPS connections  
 Affected applications using vulnerable OpenSSL versions 3.0.0 to 3.1.2  
 Patched by OpenSSL team in July 2025 (OpenSSL 3.1.3 release)
+
+
+### July 18 – CVE Study  
+**CVE-2025-13161 (Microsoft Exchange Server – ProxyShell Authentication Bypass)**  
+Vulnerability in Microsoft Exchange Server ProxyShell feature (Improper authentication verification)  
+Allowed attackers to bypass authentication and execute remote code on Exchange systems  
+Used in targeted attacks against enterprise email servers, enabling mailbox access and malware deployment  
+Impacted Exchange 2013, 2016, and 2019 (on‑premises deployments with ProxyShell enabled)  
+Patched by Microsoft in July 2025 (Security Update released July 2025 Patch Tuesday)
