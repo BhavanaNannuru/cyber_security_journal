@@ -179,3 +179,12 @@ Allowed attackers to bypass authentication and execute remote code on Exchange s
 Used in targeted attacks against enterprise email servers, enabling mailbox access and malware deployment  
 Impacted Exchange 2013, 2016, and 2019 (on‑premises deployments with ProxyShell enabled)  
 Patched by Microsoft in July 2025 (Security Update released July 2025 Patch Tuesday)
+
+
+### July 19 – CVE Study  
+**CVE-2025-25257 (Fortinet FortiWeb – SQL Injection RCE)**  
+Vulnerability in Fortinet FortiWeb Web Application Firewall (Improper input sanitization)  
+Allowed unauthenticated attackers to execute SQL commands via crafted HTTP(S) requests  
+Actively exploited just hours after public PoC release; dozens of systems compromised  
+Enabled attackers to drop web shells and achieve remote code execution as root  
+Patched by Fortinet in versions 7.6.4, 7.4.8, 7.2.11, and 7.0.11 (July 2025)
