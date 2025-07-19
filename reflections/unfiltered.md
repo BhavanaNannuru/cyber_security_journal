@@ -177,3 +177,7 @@ Diving into Smali felt intimidating but rewarding—it’s like peeking under An
 ## Day 42 – Feeling CONTENT!   
 📅 Date: 18 July 2025 
 Keystroke dynamics opened my eyes to how *behavior* can be a fingerprint in security. At the same time, it’s eerie that timing patterns can also leak sensitive data. CVE-2025-13168 reinforces the importance of keeping critical services like SSH updated—one missed patch could spell disaster. 
+
+## Day 43 – Hmmm!   
+📅 Date: 19 July 2025 
+A WAF vulnerable to SQLi and USBs capable of compromising an entire org—it feels like security is full of holes everywhere. Today reinforced why defense in depth isn’t optional.  
