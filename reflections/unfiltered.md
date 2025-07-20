@@ -93,25 +93,25 @@ Added the correct day too!!! Keep moving :)
 Did something that pulls my interest and deserves my attention all the time! My baby, python code as generally referred to, held me all along today!! Interests peaked, time vanished and letters appeared.
 
 ## Day 24 – Felt a lil bit slow today!
-📅 Date: 30 June 2025 
+📅 Date: 30 June 2025  
 Wish I could tell that I'm done with my targets today. Barely passed, having said that: BREAK is important too!
 
 ## 💭 Day 25 – Phish, Shells & Realizations  
-📅 Date: 1 July 2025
+📅 Date: 1 July 2025  
 Some days feel slower but they carry deep weight. Today was that. Let's see what we have tmr!
 
 
 ## Day 26 – Eye Opener  
-📅 Date: 2 July 2025
+📅 Date: 2 July 2025  
 Realized how powerful 2FA truly is. CVE-2018-11776 blew my mind — one tiny misconfig, full server pwn. Security is no joke.
 
 
 ## Day 27 – Unfiltered  
-📅 Date: 3 July 2025
+📅 Date: 3 July 2025  
 BlueKeep made me realize how dangerous unpatched systems can be. VPNs felt like a magic cloak for data — now I get why they’re so hyped.
 
 ## Day 28 – Floods & Exploits!  
-📅 Date: 4 July 2025
+📅 Date: 4 July 2025  
 Whoa! Today felt heavy but exciting. 💥 DDoS attacks are like digital tsunamis—learning how they cripple systems was wild. Also, CVE-2017-5638? Damn, that tiny header bug wrecked Equifax! 😳 Makes me realize how one oversight can burn down even giants. Slowly feeling like I'm connecting all the dots in this journey.  
 
 
@@ -121,18 +121,18 @@ Woah, today was all about *planning and discovery*! The passive recon part felt 
 
 
 ## Day 30 – Feeling Like a Pentester  
-📅 Date: 6 July 2025 
+📅 Date: 6 July 2025  
 Woah… today felt like connecting so many dots! 🧠 I finally understood how all the **pen testing phases** fit together—like planning, attacking, and then neatly cleaning up like nothing happened 😏. Also, crypto fundamentals hit differently this time… symmetric, asymmetric, hashes—feels like I can finally “see” how they’re used in real life. 🛡️ 
 The more I dig in, the more exciting (and slightly scary) this field feels.  
 
 
 ## Day 31 – 🚀 Feeling pumped! 
-📅 Date: 7 July 2025 
+📅 Date: 7 July 2025  
 Cracked a Wireshark challenge and started building my own web vulnerability scanner – this is starting to feel real! 
 
 
 ## Day 32 – Focused yet curious! 
-📅 Date: 8 July 2025 
+📅 Date: 8 July 2025  
 Wrapped up the Pomodoro app basics, modularized the web vuln scanner, and went deep into Python modules—feeling like pieces are falling into place.  
 
 ## Day 33 – Unfiltered  
@@ -141,7 +141,8 @@ Explored a serious Microsoft Exchange SSRF bug and got my head around XSS attack
 
 
 ## Day 34 – Password Vault Vibes  
-📅 Date: 10 July 2025  Breezed through password managers today—felt like unlocking a secret vault myself 🗝️. Zerologon gave me chills thinking of its sheer impact. Ended the day building my own Python password vault; it’s small, but feels like I’m leveling up! 🚀  
+📅 Date: 10 July 2025   
+Breezed through password managers today—felt like unlocking a secret vault myself 🗝️. Zerologon gave me chills thinking of its sheer impact. Ended the day building my own Python password vault; it’s small, but feels like I’m leveling up! 🚀  
 
 
 ## Day 35 – Phew… Cloud Feels Big!  
@@ -154,7 +155,7 @@ Dived into Drupalgeddon 2 and wow, it’s scary how a simple request can take ov
 Whoa… CVE-2017-11882 was eye-opening. Can’t believe such an *old* Microsoft Office component (Equation Editor!) could let attackers take over systems so easily. Makes me think how dangerous legacy software really is. 
 
 ## Day 37 – CVEs All Around!  
-📅 Date: 13 July 2025
+📅 Date: 13 July 2025  
 Learnt how CVEs work in the bigger picture and dove into CVE-2023-36884. Wild how attackers weaponize Office files for RCE! Makes me want to patch everything twice.  
 
 ## Day 38 – Something Something!  
@@ -175,11 +176,11 @@ Facial recognition feels cool but also scary—it’s a double-edged sword. One 
 Diving into Smali felt intimidating but rewarding—it’s like peeking under Android’s hood. Realizing how external devices can be weaponized makes me appreciate how often security is about *trust boundaries*. And this CVE reinforced why browser updates should never be delayed.  
 
 ## Day 42 – Feeling CONTENT!   
-📅 Date: 18 July 2025 
+📅 Date: 18 July 2025  
 Keystroke dynamics opened my eyes to how *behavior* can be a fingerprint in security. At the same time, it’s eerie that timing patterns can also leak sensitive data. CVE-2025-13168 reinforces the importance of keeping critical services like SSH updated—one missed patch could spell disaster. 
 
 ## Day 43 – Hmmm!   
-📅 Date: 19 July 2025 
+📅 Date: 19 July 2025  
 A WAF vulnerable to SQLi and USBs capable of compromising an entire org—it feels like security is full of holes everywhere. Today reinforced why defense in depth isn’t optional.  
 
 
