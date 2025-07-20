@@ -181,3 +181,8 @@ Keystroke dynamics opened my eyes to how *behavior* can be a fingerprint in secu
 ## Day 43 – Hmmm!   
 📅 Date: 19 July 2025 
 A WAF vulnerable to SQLi and USBs capable of compromising an entire org—it feels like security is full of holes everywhere. Today reinforced why defense in depth isn’t optional.  
+
+
+# 🛡️ Day 44 – Insights  :)
+📅 Date: 20 July 2025  
+Learnt about CVE-2025-53770 (SharePoint RCE via deserialization) and explored dark web risks, including threat actor marketplaces and mitigation strategies. 
