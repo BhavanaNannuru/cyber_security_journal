@@ -188,3 +188,12 @@ Allowed unauthenticated attackers to execute SQL commands via crafted HTTP(S) re
 Actively exploited just hours after public PoC release; dozens of systems compromised  
 Enabled attackers to drop web shells and achieve remote code execution as root  
 Patched by Fortinet in versions 7.6.4, 7.4.8, 7.2.11, and 7.0.11 (July 2025)
+
+
+### July 20 – CVE Study  
+**CVE-2025-53770 (SharePoint ToolShell Variant – Microsoft SharePoint Server)**  
+Vulnerability in Microsoft SharePoint Server (Deserialization of untrusted data)  
+Allows unauthenticated remote code execution by chaining two prior bugs  
+Actively exploited since mid-July across on‑premises SharePoint servers (75+ organizations impacted)  
+Enables attackers to run arbitrary commands and plant web shells before authentication  
+No official patch yet—mitigations include enabling AMSI integration or disconnecting from the internet  
