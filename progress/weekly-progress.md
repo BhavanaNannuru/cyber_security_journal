@@ -1,9 +1,6 @@
-# 📊 Progress Logs – Weekly Learning Archive
+#  Progress Logs – Weekly Learning Archive
 
 This folder contains my weekly learning logs, reflections, and daily walkthroughs as part of my cybersecurity journey. Each subfolder represents one week of focused exploration, including TryHackMe rooms solved, tools practiced, papers read, and reflections written.
-
----
-
 
 ---
 
@@ -14,20 +11,13 @@ This folder contains my weekly learning logs, reflections, and daily walkthrough
   - Tools explored
   - What I learned
   - Challenges or errors encountered
-- **Weekly Summary** (`progress-summary.md`):
-  - TryHackMe rank movement
-  - Total hours spent
-  - Tools tried
-  - Papers read
-  - Key wins + blockers
-
 ---
 
 ## 💡 Purpose of This Folder
 
 - Keep a chronological trail of growth and effort
-- Make my learning journey transparent and auditable
-- Show evidence of consistency and progression over time
+- Make my learning journey transparent and auditable: mostly for self-motivation! 
+- Show evidence of consistency and progression over time: Helps me gain confidence: I came through a long way from the start!!
 - Reflect on what's working, what's challenging, and what's next
 
 ---
