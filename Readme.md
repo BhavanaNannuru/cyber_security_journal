@@ -1,10 +1,10 @@
-# 🛡️ Cybersecurity Learning Journal – 45-Day Challenge
+# Cybersecurity Learning Journal – 45-Day Challenge
 
-Welcome to my cybersecurity journal! This repository tracks my hands-on learning, tool exploration, research reading, and reflections over a focused 45-day self-driven journey. My goal is to build a deep and consistent foundation in cybersecurity in preparation for my Master's applications for Fall 2026 — particularly: value practical skill-building, discipline, and a demonstrated passion for the field.
+Welcome to my cybersecurity journal! This repository tracks my hands-on learning, tool exploration, research reading, and reflections over a focused 45-day self-driven journey. My goal is to build a deep and consistent foundation in cybersecurity— particularly: value practical skill-building, discipline, and a demonstrated passion for the field.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Learn by doing: Explore real-world cybersecurity tools and techniques
 - Build consistent habits and deep technical curiosity
@@ -12,7 +12,7 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 ---
 
-## 🧭 Structure
+## Structure
 
 | Folder | Purpose |
 |--------|---------|
@@ -24,7 +24,7 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 ---
 
-## 🧠 Platforms & Tools Covered or will be covered 
+## Platforms & Tools Covered or will be covered 
 
 - **TryHackMe** – Daily rooms, walkthroughs, challenge streaks
 - **Python** – Scripts and automations for cyber use-cases
@@ -33,17 +33,11 @@ Welcome to my cybersecurity journal! This repository tracks my hands-on learning
 
 ---
 
-## 📈 Weekly Progress Snapshot (Updated Manually)
-
-| Week | TryHackMe Rank | Rooms Completed | Tools Explored | Papers Read |
-|------|----------------|------------------|----------------|-------------|
-| WN   | 361458 → 244043 | many!              | 0      | 0           |
-
-> 🧩 Logs updated daily • Reflections updated weekly • Publicly committed to learning
+> Logs updated daily • Reflections updated weekly • Publicly committed to learning
 
 ---
 
-## 🐍 Codes 
+## Codes 
 Find some beginner python codes, feat: cyber security! 
 Check out my [Cybersecurity Projects Repository](https://github.com/BhavanaNannuru/cyber_projects) for more hands-on learning.
 
@@ -62,7 +56,7 @@ The content in this repository is intended to:
 - Support ethical hacking practices in legal environments (labs, self-owned systems, permission-granted tests)
 - Promote awareness about how security vulnerabilities can be found and mitigated
 
-### ❌ What this repository is **not** intended for:
+### What this repository is **not** intended for:
 
 - Unauthorized access to networks or systems  
 - Malicious exploitation of vulnerabilities  
@@ -74,7 +68,7 @@ I do **not** encourage or condone using any of the tools, scripts, or techniques
 
 ---
 
-## ✅ Always Remember
+## Always Remember
 
 - Practice only in controlled, permission-based environments
 - Follow the laws of your country and organization
@@ -82,7 +76,7 @@ I do **not** encourage or condone using any of the tools, scripts, or techniques
 
 ---
 
-## 📚 Stay Ethical, Keep Learning
+## Stay Ethical, Keep Learning
 Cybersecurity is about **protecting**, not harming. Use your knowledge to build safer digital spaces and empower others to stay secure.
 
 ---
