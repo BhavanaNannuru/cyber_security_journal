@@ -1,6 +1,5 @@
-## 📅 June 28 – CVE Study
-
-### CVE-2017-0144 (WannaCry Vulnerability – EternalBlue)
+### June 28 – CVE Study
+**CVE-2017-0144 (WannaCry Vulnerability – EternalBlue)**  
 - Vulnerability in Microsoft SMBv1 (Remote Code Execution)
 - Exploited by WannaCry ransomware in 2017
 - Used EternalBlue exploit (NSA-leaked)
@@ -9,9 +8,8 @@
 
 ---
 
-## June 29 – CVE Study  
-
-### CVE-2021-44228 (Log4Shell Vulnerability – Apache Log4j)
+### June 29 – CVE Study
+**CVE-2021-44228 (Log4Shell Vulnerability – Apache Log4j)**  
 - Vulnerability in Apache Log4j (Remote Code Execution via JNDI Lookup)  
 - Exploited widely across internet-facing Java applications in 2021  
 - Attackers used malicious `${jndi:ldap://...}` strings to trigger code execution  
