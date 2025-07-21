@@ -4,7 +4,7 @@ This folder contains my weekly learning logs, reflections, and daily walkthrough
 
 ---
 
-## ✅ What's Inside Each Week
+## What's Inside Each Week
 
 - **Daily Logs**: Markdown files for each day, covering:
   - Platforms used (TryHackMe, etc.)
@@ -13,7 +13,7 @@ This folder contains my weekly learning logs, reflections, and daily walkthrough
   - Challenges or errors encountered
 ---
 
-## 💡 Purpose of This Folder
+## Purpose of This Folder
 
 - Keep a chronological trail of growth and effort
 - Make my learning journey transparent and auditable: mostly for self-motivation! 
@@ -22,5 +22,5 @@ This folder contains my weekly learning logs, reflections, and daily walkthrough
 
 ---
 
-> 📌 This logbook is a live reflection of my commitment, discipline, and love for learning cybersecurity. New folders and summaries will be added weekly.
+> This logbook is a live reflection of my commitment, discipline, and love for learning cybersecurity. New folders and summaries will be added weekly.
 
