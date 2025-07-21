@@ -197,3 +197,12 @@ Allows unauthenticated remote code execution by chaining two prior bugs
 Actively exploited since mid-July across on‑premises SharePoint servers (75+ organizations impacted)  
 Enables attackers to run arbitrary commands and plant web shells before authentication  
 No official patch yet—mitigations include enabling AMSI integration or disconnecting from the internet  
+
+
+### July 21 – CVE Study  
+**CVE-2025-60321 (Linux Kernel – SCTP Use-After-Free Vulnerability)**  
+Vulnerability in Linux kernel’s SCTP (Stream Control Transmission Protocol) implementation  
+Allows remote attackers to trigger use-after-free via crafted SCTP packets  
+Could lead to local privilege escalation or denial-of-service on affected systems  
+Impacts Linux kernel versions from 5.10 through 6.5; high severity (CVSS 8.1)  
+Patched by the Linux kernel team on July 20, 2025 (merge to stable releases)
