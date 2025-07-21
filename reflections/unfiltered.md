@@ -183,7 +183,11 @@ Keystroke dynamics opened my eyes to how *behavior* can be a fingerprint in secu
 📅 Date: 19 July 2025  
 A WAF vulnerable to SQLi and USBs capable of compromising an entire org—it feels like security is full of holes everywhere. Today reinforced why defense in depth isn’t optional.  
 
-
 ## Day 44 – Insights  :)
 📅 Date: 20 July 2025  
 Learnt about CVE-2025-53770 (SharePoint RCE via deserialization) and explored dark web risks, including threat actor marketplaces and mitigation strategies. 
+
+## Day 45 – Final Day as per plan!!
+📅 Date: 21 July 2025  
+Coming through the 45 day challenge till the end is quite an achievement according to me. I do realize not all the goals were met! But HEY!! I did achieve a lot, the progress might not be the best, but have come a long way from my starting point. This challenge might be done, this is the last day, day 45!! But my quest for knowledge isn't reduced a bit yet!
+Will work to thrive in the field of Cyber!! ATB to the future me :)
