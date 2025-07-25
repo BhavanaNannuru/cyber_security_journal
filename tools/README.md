@@ -15,6 +15,7 @@ To build technical confidence and fluency in real-world cybersecurity tools that
 | Tool        | Category             | Plan |
 |-------------|----------------------|------|
 | Wireshark   | Packet analysis      | Start with basic filters, capture logs |
+| OwaspZAP    | Web app Security     | Robust enumeration tool |
 | Nmap        | Network scanning     | Try scans on local machines, ports |
 | Metasploit  | Exploitation framework | Learn payload structure, test on labs |
 | Burp Suite  | Web app security     | Intercept requests, test login bypass |
